@@ -1,0 +1,309 @@
+[
+  {
+    "categoryName": "breakfast",
+    "productName": "Waffle",
+    "price": "59",
+    "review": "Good",
+    "ratings": "5",
+    "describe": "The key to these waffles are the chocolate chips. And I didn’t use just any ole brand. I used Pacari Premium Organic Chocolate. You guys, this chocolate is the bomb. So good! You can taste the quality in this chocolate. I also used Stonyfield Organic fat free plain yogurt, Dixie Crystals sugar, pure almond extract from Nielsen-Massey and walnuts from California Walnuts! ",
+    "img": "https://i.ibb.co/C2w4RLx/alexandra-gorn-kge-O6g-OZsh-Q-unsplash.jpg"
+  },
+  {
+    "categoryName": "breakfast",
+    "productName": "Perrie Wilkof",
+    "price": "89",
+    "review": "Good",
+    "ratings": "4",
+    "describe": "Perrie Wilkof is a trained pastry chef, and it shows in every crumb she creates at Dough Mama. I can’t get enough of her biscuits or Lemon Lavender Chess Pie, and Dough Mama’s maple milk is the stuff of legends. Plus, I jumped for joy at the news that the Clintonville brunch spot will be starting dinner hours later this year. However, there is so much more to Perrie than just baked goods! ",
+    "img": "https://i.ibb.co/k1YpMdV/angelo-pantazis-1u-Iy-v4-Ol-Ik-unsplash.jpg"
+  },
+  {
+    "categoryName": "breakfast",
+    "productName": "Honey granola",
+    "price": "99",
+    "review": "Excellent",
+    "ratings": "5",
+    "describe": "Honey granola filled with roasted old fashioned oats, quinoa, and almonds then tossed with dried cranberries. This honey cranberry almond quinoa granola is addictive as a snack or as breakfast with milk.",
+    "img": "https://i.ibb.co/cLK398m/bram-bakkers-d5l-XIzya9g-unsplash.jpg"
+  },
+  {
+    "categoryName": "breakfast",
+    "productName": "Chicken Sandwich",
+    "price": "39",
+    "review": "Excellent",
+    "ratings": "4",
+    "describe": "A chicken sandwich is a sandwich that typically consists of boneless, skinless chicken breast or thigh served between slices of bread, on a bun, or on a roll. Variations on the 'chicken sandwich' include the chicken burger, chicken on a bun, chickwich, hot chicken, or chicken salad sandwich.",
+    "img": "https://i.ibb.co/Tb2Gy4D/farhad-ibrahimzade-07-RKITgm-Sc-Q-unsplash.jpg"
+  },
+  {
+    "categoryName": "breakfast",
+    "productName": "French toast",
+    "price": "79",
+    "review": "Good",
+    "ratings": "5",
+    "describe": "French toast is a dish of sliced bread soaked in beaten eggs and often milk or cream, then pan fried. Alternative names and variants include 'eggy bread', 'ombay toast', 'gypsy toast', and 'poor knights'",
+    "img": "https://i.ibb.co/XyXDmD3/sylwia-forysinska-u-Dvb-Is8t8-CM-unsplash.jpg"
+  },
+  {
+    "categoryName": "dinner",
+    "productName": "Vegetable Stir Fry",
+    "price": "49",
+    "review": "Good",
+    "ratings": "4.5",
+    "describe": "Start with the hard vegetables like carrots and broccoli. Stir and scoop vegetables to the side to make room for more. Then add the softer vegetables, like sliced mushrooms and zucchini. Pour in some stock or water and always keep the veggies moving in the pan.",
+    "img": "https://i.ibb.co/m8HTB7z/carlos-fernandez-Uj-Ikv-Pvfs-FY-unsplash.jpg"
+  },
+  {
+    "categoryName": "dinner",
+    "productName": "Goan Beef Roast",
+    "price": "69",
+    "review": "Excellent",
+    "ratings": "5",
+    "describe": "Roast meat is an all time Goan favorite. This is a super moist, perfectly seasoned, traditional Goan ",
+    "img": "https://i.ibb.co/NNjb3VZ/cooker-king-KPMn-Qq5-Zxc-Y-unsplash.jpg"
+  },
+  {
+    "categoryName": "dinner",
+    "productName": "Prosciutto salad",
+    "price": "39",
+    "review": "Good",
+    "ratings": "4",
+    "describe": "Prosciutto di parma is a cured ham that is made from high quality pork legs. The meat is salted and cured for a few weeks and is then washed and air dried for 1-3 years, which makes it incredibly flavorful. It’s a sweet and salty staple in Italian dishes as it adds complex flavors to simple ingredients and you can find it at just about any grocery store.",
+    "img": "https://i.ibb.co/FqvrXm3/farhad-ibrahimzade-27-M25-OSe-An-A-unsplash.jpg"
+  },
+  {
+    "categoryName": "dinner",
+    "productName": "Wine salmon",
+    "price": "79",
+    "review": "Excellent",
+    "ratings": "5",
+    "describe": "Salmon, a luscious fish, pairs well with both richer whites and lighter reds. While fish and oaky wines tend to clash, the flavor of grilled salmon can actually be complemented by lightly oaked wines",
+    "img": "https://i.ibb.co/yX0X116/farhad-ibrahimzade-is-HUj3-N0194-unsplash.jpg"
+  },
+  {
+    "categoryName": "dinner",
+    "productName": "Honey Mustard Pork Chops",
+    "price": "39",
+    "review": "Good",
+    "ratings": "4",
+    "describe": "Who doesn't love a tasty pork chop recipe? This dish is incredible because it is so straightforward to make; the pork chops cook in the oven for smooth cooking and easy clean-up. This recipe only takes a half-hour from start to finish, so it is perfect for school nights. ",
+    "img": "https://i.ibb.co/fXyT11Z/louis-hansel-KQR3-ENYfrpw-unsplash.jpg"
+  },
+  {
+    "categoryName": "drinks",
+    "productName": "Cocktail",
+    "price": "79",
+    "review": "Excellent",
+    "ratings": "4.5",
+    "describe": "A cocktail is an alcoholic mixed drink. Most commonly, cocktails are either a combination of spirits, or one or more spirits mixed with other ingredients such as tonic water, fruit juice, flavored syrup, or cream.",
+    "img": "https://i.ibb.co/wRGJQCf/alana-harris-j-Og5iad-Iq2-A-unsplash.jpg"
+  },
+  {
+    "categoryName": "drinks",
+    "productName": "Latte macchiato",
+    "price": "69",
+    "review": "Excellent",
+    "ratings": "5",
+    "describe": "Latte macchiato is a coffee beverage; the name means stained or marked milk, which refers to the espresso stain on the milk used. It is a play on “Espresso macchiato, ” an espresso with a dollop or two of milk or cream. ",
+    "img": "https://i.ibb.co/VjNRJbs/janosch-lino-c5j-XEqjb-ZU4-unsplash.jpg"
+  },
+  {
+    "categoryName": "drinks",
+    "productName": "Gin and tonic",
+    "price": "79",
+    "review": "Excellent",
+    "ratings": "5",
+    "describe": "A gin and tonic is a highball cocktail made with gin and tonic water poured over a large amount of ice. The ratio of gin to tonic varies according to taste, strength of the gin, other drink mixers being added, etc.",
+    "img": "https://i.ibb.co/pv3y3t7/jez-timms-J7-J0o-Tps4-Lo-unsplash.jpg"
+  },
+  {
+    "categoryName": "drinks",
+    "productName": "Mojito",
+    "price": "39",
+    "review": "Good",
+    "ratings": "4",
+    "describe": "Mojito is a traditional Cuban punch. The cocktail often consists of five ingredients: white rum, sugar, lime juice, soda water, and mint. Its combination of sweetness, citrus, and herbaceous mint flavors is intended to complement the rum, and has made the mojito a popular summer drink.",
+    "img": "https://i.ibb.co/bmtvZSy/kenny-eliason-wy-Lp-6c-Kqqs-unsplash.jpg"
+  },
+  {
+    "categoryName": "drinks",
+    "productName": "Frozen Hot Chocolate Floats",
+    "price": "59",
+    "review": "Good",
+    "ratings": "4.5",
+    "describe": "Frozen Hot Chocolate is a refreshing icy cold version of hot chocolate! It’s made with real melted chocolate, hot cocoa powder, milk, and ice blended and topped with whipped cream.",
+    "img": "https://i.ibb.co/3dXtvM5/kofi-buckley-Dcz-JXIFg5c-U-unsplash.jpg"
+  },
+  {
+    "categoryName": "drinks",
+    "productName": "Green tea",
+    "price": "29",
+    "review": "Good",
+    "ratings": "4",
+    "describe": "Green tea is a type of tea that is made from Camellia sinensis leaves and buds that have not undergone the same withering and oxidation process which is used to make oolong teas and black teas",
+    "img": "https://i.ibb.co/Sx2zf6Z/petr-sidorov-Dr-TXm-ESWa-N8-unsplash.jpg"
+  },
+  {
+    "categoryName": "drinks",
+    "productName": "Negroni",
+    "price": "89",
+    "review": "Excellent",
+    "ratings": "5",
+    "describe": "A Negroni is an Italian cocktail, made of one part gin, one part vermouth rosso and one part Campari, garnished with orange peel. It is considered an apéritif. ",
+    "img": "https://i.ibb.co/0YBfH7s/riccardo-andolfo-Dt-Kr-V2-K5vq8-unsplash.jpg"
+  },
+  {
+    "categoryName": "drinks",
+    "productName": "Spritz",
+    "price": "59",
+    "review": "Excellent",
+    "ratings": "4.5",
+    "describe": "A Spritz is a Venetian wine-based cocktail, commonly served as an aperitif in Northeast Italy. It consists of prosecco, digestive bitters and soda water. ",
+    "img": "https://i.ibb.co/NNxYTcg/soo-ji-choi-ju1-D228la2-E-unsplash.jpg"
+  },
+  {
+    "categoryName": "drinks",
+    "productName": "Whisky",
+    "price": "69",
+    "review": "Good",
+    "ratings": "5",
+    "describe": "Whisky or whiskey is a type of distilled alcoholic beverage made from fermented grain mash. Various grains are used for different varieties, including barley, corn, rye, and wheat. ",
+    "img": "https://i.ibb.co/tL6Y8g1/vianney-cahen-MJYYi-C228m-Y-unsplash.jpg"
+  },
+
+  {
+    "categoryName": "indianFood",
+    "productName": "Chicken curry",
+    "price": "79",
+    "review": "Excellent",
+    "ratings": "5",
+    "describe": "Chicken curry or curry chicken is a dish originating from the Indian subcontinent. It is common in the Indian subcontinent. ",
+    "img": "https://i.ibb.co/LPgG9gj/Achari-Murgh.jpg"
+  },
+  {
+    "categoryName": "indianFood",
+    "productName": "Pancake",
+    "price": "59",
+    "review": "Excellent",
+    "ratings": "4.5",
+    "describe": "Starting your day with a nutritious, filling, and energizing meal is the best way to get your day going on the right track, and a plant-based breakfast is the perfect place to start. Try some of our favorite recipes to kickstart your morning",
+    "img": "https://i.ibb.co/17xk8tJ/caitlin-greene-QDM6-f-FKP0s-unsplash.jpg"
+  },
+  {
+    "categoryName": "indianFood",
+    "productName": "Traditional Food",
+    "price": "89",
+    "review": "Excellent",
+    "ratings": "5",
+    "describe": "Staple foods of Indian cuisine include pearl millet (bājra), rice, whole-wheat flour (aṭṭa), and a variety of lentils, such as masoor (most often red lentils), tuer (pigeon peas), urad (black gram), and moong (mung beans). Lentils may be used whole, dehusked—for example, dhuli moong or dhuli urad—or split.",
+    "img": "https://i.ibb.co/hmqzRZw/Indian-Tradetion-Food.jpg"
+  },
+  {
+    "categoryName": "indianFood",
+    "productName": "Rum baba",
+    "price": "79",
+    "review": "Good",
+    "ratings": "5",
+    "describe": "A rum baba or baba au rhum is a small yeast cake saturated in syrup made with hard liquor, usually rum, and sometimes filled with whipped cream or pastry cream. It is most typically made in individual servings but sometimes can be made in larger forms similar to those used for Bundt cakes.",
+    "img": "https://i.ibb.co/tKfgYhf/iso-topon-JCbs-OIhr5-BY-unsplash.jpg"
+  },
+  {
+    "categoryName": "indianFood",
+    "productName": "Caesar salad",
+    "price": "99",
+    "review": "Excellent",
+    "ratings": "5",
+    "describe": "A Caesar salad is a green salad of romaine lettuce and croutons dressed with lemon juice, olive oil, egg, Worcestershire sauce, anchovies, garlic, Dijon mustard, Parmesan cheese, and black pepper. In its original form, this salad was prepared and served tableside.",
+    "img": "https://i.ibb.co/KF3TGMq/sina-piryae-b-Bzj-Wth-Tqb8-unsplash.jpg"
+  },
+  {
+    "categoryName": "italianFood",
+    "productName": "le Baocn",
+    "price": "39",
+    "review": "Good",
+    "ratings": "4",
+    "describe": "A couple of years back, we told you about Le Whif, a French product that allows you to taste chocolate without the hassle of actually chewing by inhaling a puff of chocolate micro particles. Now, with equal parts excitement and revulsion, we present BaconAir: the world’s very first bacon inhaler that “combines the deliciousness of bacon with the unrivalled health benefits of 95 per cent Himalayan oxygen.",
+    "img": "https://i.ibb.co/j5k36QY/martin-widenka-tkf-RSPt-jdk-unsplash.jpg"
+  },
+  {
+    "categoryName": "italianFood",
+    "productName": "Poached egg",
+    "price": "49",
+    "review": "Good",
+    "ratings": "4.5",
+    "describe": "A poached egg is an egg that has been cooked, outside the shell, by poaching, as opposed to simmering or boiling. This method of preparation can yield more delicately cooked eggs than cooking at higher temperatures such as with boiling water.",
+    "img": "https://i.ibb.co/z8F5SGC/olesia-buyar-zai-Eh-8mzn-M-unsplash.jpg"
+  },
+  {
+    "categoryName": "italianFood",
+    "productName": "Sicilian Steak",
+    "price": "69",
+    "review": "Good",
+    "ratings": "5",
+    "describe": "Entrecote: In Italy, this particular steak is often cut from the beef rib with the bone in it, but you can buy the boneless version of this cut of beef for a simpler version, which will then be the entrecote.",
+    "img": "https://i.ibb.co/GksjDCH/raka-diraka-jxyz-Xck9u-Y-unsplash.jpg"
+  },
+  {
+    "categoryName": "italianFood",
+    "productName": "Tofu Crumble",
+    "price": "89",
+    "review": "Excellent",
+    "ratings": "5",
+    "describe": "Tofu crumble is the perfect addition to any bowl and can be used as an alternative to taco meat. If you make it at the beginning of the week it keeps well in the fridge and it delicious reheated.",
+    "img": "https://i.ibb.co/whKMn6q/sara-antonacci-me-H9-RC-O5-Qs-unsplash.jpg"
+  },
+  {
+    "categoryName": "italianFood",
+    "productName": "Pork belly",
+    "price": "99",
+    "review": "Excellent",
+    "ratings": "5",
+    "describe": "Pork belly or belly pork is a boneless and fatty cut of meat from the belly of a pig. Pork belly is particularly popular in Hispanic, Chinese, Danish, Norwegian, Korean, Thai and Filipino cuisine.",
+    "img": "https://i.ibb.co/4VgfnbV/tareq-alkhamees-lp-Iq5-XJ30f-A-unsplash.jpg"
+  },
+  {
+    "categoryName": "veganFood",
+    "productName": "Pumpkin with Broccolini",
+    "price": "69",
+    "review": "Good",
+    "ratings": "4.5",
+    "describe": "Heat oil in a large deep frying pan, over high heat, add laksa paste and cook, stirring for 1 minute. Add stock, coconut cream and simmer. Add the pumpkin, and bring up to the boil then cook for 5 minutes or until tender. Add the broccolini and cook for a further 1 minute or until tender.",
+    "img": "https://i.ibb.co/6WJdVF6/farhad-ibrahimzade-u-G5jdjo-PKus-unsplash.jpg"
+  },
+  {
+    "categoryName": "veganFood",
+    "productName": "Moscato Wine",
+    "price": "89",
+    "review": "Excellent",
+    "ratings": "5",
+    "describe": "The Muscat family of grapes includes over 200 grape varieties belonging to the Vitis vinifera species that have been used in wine production and as raisin and table grapes around the globe for many centuries. Their colors range from white, to yellow, to pink to near black.",
+    "img": "https://i.ibb.co/r72pRmr/farhad-ibrahimzade-u7-Vyy-ZHSZMg-unsplash.jpg"
+  },
+  {
+    "categoryName": "veganFood",
+    "productName": "Burrito",
+    "price": "59",
+    "review": "Good",
+    "ratings": "4",
+    "describe": "A burrito is a dish in Mexican and Tex-Mex cuisine that took form in Mexican cuisine, consisting of a flour tortilla wrapped into a sealed cylindrical shape around various ingredients.",
+    "img": "https://i.ibb.co/wKJpfhr/gonzalo-mendiola-V9w-YRz-KZESg-unsplash.jpg"
+  },
+  {
+    "categoryName": "veganFood",
+    "productName": "Cashew Nuts",
+    "price": "59",
+    "review": "Good",
+    "ratings": "4",
+    "describe": "Farmown W320 Grade White whole cashew nuts have the highest cashew grade based on their shape and colour. These cashews, called white whole Standard, are whole cashew kernels and have a white, pale ivory color with minimal dark or brown speckles.",
+    "img": "https://i.ibb.co/xDDTnBC/mockup-graphics-x-WRw-Cmhc-WDM-unsplash.jpg"
+  },
+  {
+    "categoryName": "veganFood",
+    "productName": "Sundae",
+    "price": "79",
+    "review": "Excellent",
+    "ratings": "5",
+    "describe": "A sundae is an ice cream dessert of American origin that typically consists of one or more scoops of ice cream topped with sauce or syrup and in some cases other toppings such as: sprinkles, whipped cream, marshmallows, peanuts, maraschino cherries, or other fruits.",
+    "img": "https://i.ibb.co/0D5t6Y0/madeline-tallman-m5oypz13kkc-unsplash.jpg"
+  }
+]
