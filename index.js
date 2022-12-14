@@ -26,6 +26,55 @@ async function run() {
       res.send(result);
     });
 
+    //get breakfast data by category
+    app.get("/breakfast", async (req, res) => {
+      // const query = {}
+      const products = await serviceCollection
+        .find({ categoryName: "breakfast" })
+        .toArray();
+      res.send(products);
+    });
+    //get dinner data by category
+    app.get("/dinner", async (req, res) => {
+      // const query = {}
+      const products = await serviceCollection
+        .find({ categoryName: "dinner" })
+        .toArray();
+      res.send(products);
+    });
+    //get drinks data by category
+    app.get("/drinks", async (req, res) => {
+      // const query = {}
+      const products = await serviceCollection
+        .find({ categoryName: "drinks" })
+        .toArray();
+      res.send(products);
+    });
+    //get indianFood data by category
+    app.get("/indianFood", async (req, res) => {
+      // const query = {}
+      const products = await serviceCollection
+        .find({ categoryName: "indianFood" })
+        .toArray();
+      res.send(products);
+    });
+    //get italianFood data by category
+    app.get("/italianFood", async (req, res) => {
+      // const query = {}
+      const products = await serviceCollection
+        .find({ categoryName: "italianFood" })
+        .toArray();
+      res.send(products);
+    });
+    //get veganFood data by category
+    app.get("/veganFood", async (req, res) => {
+      // const query = {}
+      const products = await serviceCollection
+        .find({ categoryName: "veganFood" })
+        .toArray();
+      res.send(products);
+    });
+
   }
   finally{
 
