@@ -18,6 +18,7 @@ const client = new MongoClient(uri, { useNewUrlParser: true, useUnifiedTopology:
 async function run() {
   try{
     const serviceCollection = client.db("Quench_Valley").collection("services");
+    const userCollection = client.db("Quench_Valley").collection("users");
 
      //for get all service
      app.get("/services", async (req, res) => {
@@ -73,6 +74,14 @@ async function run() {
         .find({ categoryName: "veganFood" })
         .toArray();
       res.send(products);
+    });
+
+
+    // post user when they are created
+    app.post("/users", async (req, res) => {
+      const user = req.body;
+      const result = await userCollection.insertOne(user);
+      res.send(result);
     });
 
   }
