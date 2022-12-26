@@ -83,6 +83,35 @@ async function run() {
       const result = await userCollection.insertOne(user);
       res.send(result);
     });
+    // get all user
+    app.get("/users", async (req, res) => {
+      const user = req.body;
+      const result = await userCollection.insertOne(user);
+      res.send(result);
+    });
+
+    //for updating user info
+    // app.put("/users/:id", async (req, res) => {
+    //   const id = req.params.id;
+    //   const filter = { _id: ObjectId(id) };
+    //   const user = req.body;
+    //   const option = { upsert: true };
+    //   const updatedUser = {
+    //     $set: {
+    //       firstName:user.firstName,
+    //       lastName: user.lastName,
+    //       phoneNumber:user.phoneNumber,
+    //       photoUrl: user.photoUrl,
+    //       bio: user.bio
+    //     },
+    //   };
+    //   const result = await userCollection.updateOne(
+    //     filter,
+    //     updatedUser,
+    //     option
+    //   );
+    //   res.send(result);
+    // });
 
   }
   finally{
